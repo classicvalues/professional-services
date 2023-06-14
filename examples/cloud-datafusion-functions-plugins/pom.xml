@@ -32,7 +32,7 @@
     <hydrator.version>2.3.0</hydrator.version>
     <cdap.version>6.0.0-SNAPSHOT</cdap.version>
     <hadoop.version>2.8.0</hadoop.version>
-    <guava.version>28.0-jre</guava.version>
+    <guava.version>32.0.0-jre</guava.version>
     <!-- properties for script build step that creates the config files for the artifacts -->
     <widgets.dir>widgets</widgets.dir>
     <bigquery.connector.hadoop2.version>0.13.1-hadoop2</bigquery.connector.hadoop2.version>
